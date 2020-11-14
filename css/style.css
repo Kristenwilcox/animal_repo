@@ -1,0 +1,26 @@
+
+style.css
+.nav_buttons {
+    display: inline-block;
+    padding: 15px;
+    color: #87c5Bf;
+}
+#nav {
+    background-color: #012c3e;
+}
+
+
+#left {
+    width: 29%;
+    float: left;
+    background-color: lightgray;
+    height: 1000px;
+
+}
+
+#right {
+    width: 71%;
+    float: left;
+    background-color: #Dff8e8;
+    height: 10000px
+}
